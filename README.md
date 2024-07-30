@@ -1,1 +1,1 @@
-Github a git kullanarak dosya gönderme ve alma
+Bu benim ilk gitthub projem :)
