@@ -1,1 +1,1 @@
-Bu benim ilk gitthub projem :)
+Bu benim ilk github projem :)
